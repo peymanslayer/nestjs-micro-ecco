@@ -1,8 +1,8 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/peymanslayer/api-gateway.git
-	heads=main
+	branch=main
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/peymanslayer/user-service.git
-	heads=feature
+	branch=feature

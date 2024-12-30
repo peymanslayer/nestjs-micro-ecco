@@ -6,3 +6,6 @@
 	path = user-service
 	url = https://github.com/peymanslayer/user-service.git
 	branch = feature
+[submodule "music-service"]
+	path = music-service
+	url = https://github.com/peymanslayer/music-service.git
